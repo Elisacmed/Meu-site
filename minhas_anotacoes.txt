@@ -1,0 +1,2 @@
+[ ] Crias a página inícial
+[ ] Adicionar uma foto.
